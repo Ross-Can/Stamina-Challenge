@@ -1,0 +1,41 @@
+p//warning please download and run locally
+
+Matthew Ross
+23579362
+Game: 25 Second stamena challenge
+To win: click the green button a set amount of times to move onto the next level
+Whats Stoping you: The other colors. 
+If you click a red it subtracts the amount you have to click depending  on the level you are on.
+If you click the yellow button it speeds up the game.
+If you click the black button it kills the game;you will win the game but be brought down to level 0 like nothing happened.
+If you click the turquoise button it subtracts a level. (Apparenlty he is the king of this dimension and the main villan."But thats just a theory. A ..."  There is always a place for plot and lore.)
+
+Things to take note:
+Green pops up in random places over the entire board.
+Each game has a different board. According to my calculations thats a variety of 48 different boards.
+The game is an infinite game. 
+It simply gets faster and faster until you loose.
+There are three different rounds:
+-Single green: easiest round: flashes a single green.
+-Single green with a hint of red: Same as the first but its surround by reds
+-Rainbow Round: Same as first button it as multiple other colors dropping from the sky
+
+Problem(because brain doesnt work)
+I was not able to get the timing correct. The timer would continue playing while the previous function would continue playing. So my next line is a scam but the smartest move in my deck.
+
+"The goat simulator effect"
+Yes! Making a buggy game a feature.
+Rather than having a timer for every single round and it restarting what my game does is amp up the difficulty. The higher the level the more pain you are stacked up against. You may be playing a rainbow round and BAM a red round pops up, making it stupid. Or you may be stressing in the red round and suddenly a green round pops up lightening the load. This adds randomization and chance to the game. Will you click or will you wait? WHO KNOWS?!?!(.....cough)
+
+
+Changes to your script:
+fillAllRandom Removed
+seButtonRext removed
+logAllhistory removed
+logLastClicked removed
+clearGrid modified to change grid color to a style
+removed function buttions except one and made that modifiable
+
+To be added in the next update:
+Microtransactions 
+A version of Fallout 76 that runs better than this game (imposible).
