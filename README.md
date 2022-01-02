@@ -1,6 +1,6 @@
 # Stamina Challenge 
 
-I learned about html, css, and js in the year 2019. At the time my professor told gave us a task to create a game from his template. I made this game where the task is to simply click the green dot the amount of times stated before the timer ran out. Due to the lack of knowledge, I had glaring issues that I want to fix up with my current knowledge.
+I learned about html, css, and js in the year 2019. At the time my professor told gave us a task to create a game from his template. I made this game where the task is to simply click the green dot the amount of times stated before the timer ran out. Due to the lack of knowledge, I had glaring issues that I want to fix up with my current (year 2022) knowledge.
 
 ## Issues
 * Internal Timer was out of sync
@@ -44,7 +44,7 @@ The other colors.
 
 **black**: kills the game; You will win the level but be brought down to level 0.
 
-**turquoise**: Subtracts a level. (Apparenlty he is the king of this dimension and the main villan."But thats just a theory. A ..."  There is always a place for plot and lore.) [Line found in the documentation from Matthew of 2019
+**turquoise**: Subtracts a level. (Apparenlty he is the king of this dimension and the main villan."But thats just a theory. A ..."  There is always a place for plot and lore.) [Line found in the documentation from Matthew of 2019]
 
 ## Rounds
 - Single green: easiest round: flashes a single green.
