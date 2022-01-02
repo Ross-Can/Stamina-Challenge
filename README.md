@@ -1,6 +1,8 @@
 # Stamina Challenge 
 
-I learned about html, css, and js in the year 2019. At the time my professor told gave us a task to create a game from his template. I made this game where the task is to simply click the green dot the amount of times stated before the timer ran out. Due to the lack of knowledge I had glaring issue that I want to fix up with my current knowledge.
+I learned about html, css, and js in the year 2019. At the time my professor told gave us a task to create a game from his template. I made this game where the task is to simply click the green dot the amount of times stated before the timer ran out. Due to the lack of knowledge, I had glaring issues that I want to fix up with my current knowledge.
+
+![alt text](https://github.com/Ross-can/Stamina-Challenge/gif/Original.gif "Original")
 
 ## Issues
 * Internal Timer was out of sync
@@ -50,6 +52,8 @@ The other colors.
 - Single green: easiest round: flashes a single green.
 - Single green with a hint of red: One green surrounded by reds
 - Rainbow Round: Contains Multiple Colors
+
+
 
 
 ## License
