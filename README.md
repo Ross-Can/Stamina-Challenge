@@ -2,8 +2,6 @@
 
 I learned about html, css, and js in the year 2019. At the time my professor told gave us a task to create a game from his template. I made this game where the task is to simply click the green dot the amount of times stated before the timer ran out. Due to the lack of knowledge, I had glaring issues that I want to fix up with my current knowledge.
 
-![alt text](https://github.com/Ross-can/Stamina-Challenge/Gif/Original.gif "Original")
-
 ## Issues
 * Internal Timer was out of sync
 * The game had no theme
@@ -54,7 +52,7 @@ The other colors.
 - Rainbow Round: Contains Multiple Colors
 
 
-
+![alt text](https://github.com/Ross-Can/Stamina-Challenge/blob/main/Gif/Original.gif "Original")
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
