@@ -20,7 +20,7 @@ Below is information on the original project.
 
 1. Click [here](https://github.com/Ross-Can/Stamina-Challenge/archive/refs/heads/main.zip) to install the current version of the stamina challenge.
 2. Uncompress the zip file
-3. Print double click/open the **index.html** file to open my program in your default browser.
+3. Double click/open the **index.html** file to open my program in your default browser.
 
 ## Rules
 
@@ -30,7 +30,7 @@ Below is information on the original project.
 
 
 **The game is an infinite game** 
-* It simply gets faster and faster until you loose.
+* It simply gets faster and faster until you lose.
 * BEAT YOUR HIGH SCORE !
  
 ---
